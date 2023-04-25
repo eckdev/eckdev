@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eyup Can Kayadarcin</h1>
-<h3 align="center">In front-end development, I use HTML5, CSS and ES6 / JavaScript / React. When building advanced applications I use ES6 & React & Redux for now. When I need a backend related stuff, I use .Net Core and along with PostgreSQL. I like to try new technologies and make my hands dirty. I check new frameworks, coding styles and approaches as something new come up. I support Component-Driven Development</h3>
+<h3 align="center">
+My front-end development skills include HTML5, CSS, ES6, JavaScript, and React. I also have experience building advanced applications using React and Redux. In addition to front-end development, I have experience with .Net Core and PostgreSQL for backend development. I am also familiar with Node.js and MongoDB.
+I stay current with new technologies by regularly researching and experimenting with different frameworks, coding styles, and approaches. I am an advocate for Component-Driven Development and believe in its importance in building scalable and maintainable applications.
+</h3>
 
 - 🔭 I’m currently working on **TurkNet**
 
-- 🤝 I’m looking for help with **any JS projects.**
-
-- 💬 Ask me about **react and front-end development**
+- 💬 Ask me about **ReactJS and front-end development**
 
 - 📫 How to reach me **eyupcankayadarcin@gmail.com**
 
